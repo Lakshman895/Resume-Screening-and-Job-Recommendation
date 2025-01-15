@@ -1,6 +1,6 @@
 
 # Smart Resume Screening and Job Recommendation System
-<img src="Image/resume_image.webp" alt="Overview of Mood Analysis Flow" title="Overview of Mood Analysis Flow" width="600">
+<img src="image/resume_image.webp" alt="Overview of Mood Analysis Flow" title="Overview of Mood Analysis Flow" width="600">
 
 
 ## Project Overview
