@@ -70,7 +70,7 @@ Make sure you have the following software installed:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/Lathacharujenny/Resume-Screening-and-Job-Recommendation.git
+    git clone https://github.com/Lakshman895/Resume-Screening-and-Job-Recommendation.git
     cd Resume-Screening-and-Job-Recommendation
     ```
 
